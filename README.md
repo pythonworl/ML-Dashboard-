@@ -10,4 +10,4 @@ Ada boost,
 XGboost, 
 Logistic regression, 
 Recurrent Neural Network, 
-Long short term memor (LSTM)
+Long short term memory (LSTM)
